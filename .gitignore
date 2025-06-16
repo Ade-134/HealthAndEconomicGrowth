@@ -1,8 +1,5 @@
 /.idea
 /.venv
 clean_countries.csv
-dev_mixed.csv
 Merged_data.csv
-OECD_annual_life_expectancy.csv
 udev_mixed.csv
-OECD_mixed.csv
